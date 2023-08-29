@@ -21,12 +21,12 @@
 <h2> Content of The Project: </h2>                                                          
 
 <li>                                                                               
-1.Responsive Home Page Design 
-2.Shop Page & Single Product Page.
-3.Blog Page.                                                                                              
-4.About Page.
-5.Contact Us.
-6.Ecommerce Shopping Cart.
+Responsive Home Page Design 
+Shop Page & Single Product Page.
+Blog Page.                                                                                              
+About Page.
+Contact Us.
+Ecommerce Shopping Cart.
 </li>
 <h6>. 　。　　　　•　 　ﾟ　　。
 　　.　　　.　　　 　　.　
