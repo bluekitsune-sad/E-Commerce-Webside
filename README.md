@@ -22,18 +22,23 @@
 
 <li>                            
 Responsive Home Page Design.
-  
-Shop Page & Single Product Page.
-
-Blog Page.                
-
-About Page.
-
-Contact Us.
-
-Ecommerce Shopping Cart.
-
 </li>
+<li>
+Shop Page & Single Product Page.
+</li>
+<li>
+Blog Page. 
+</li>
+<li>
+About Page.
+</li>
+<li>
+Contact Us.
+</li>
+<li>
+Ecommerce Shopping Cart.
+</li>
+
 <h6>. 　。　　　　•　 　ﾟ　　。
 　　.　　　.　　　 　　.　
 。　　 。　.
