@@ -7,18 +7,18 @@
 　　.　　　　　.
 ,　　　　.　 .　　 . 。</h6>
 
-<h2> Live demo:</h2>  
+<h2>🎦 Live demo:</h2>  
 
 <a href=""><img src="" alt=""/></a>
 
 
 
-<h2> About this the Code: </h2>                                                           
+<h2>💻 About this the Code: </h2>                                                           
                                                                                        
 <p>Responsive E-Commerce Website using Simple HTML, CSS & JavaScript.     </p>               
                                                                                         
 
-<h2> Content of The Project: </h2>                                                          
+<h2>📃 Content of The Project: </h2>                                                          
 
 <li>                            
 Responsive Home Page Design.
